@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia",
+  "description": "A next-generation relationship platform built around deep compatibility, conversation, and genuine connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
